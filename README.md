@@ -11,7 +11,7 @@ Repository PBLRKS-306 yang berjudul BERNIAGA (Sistem Deteksi dan Respons Keamana
 | Nama | NIM | Peran/Fokus Mata Kuliah | Akun Github
 |---|---|---|---|
 | Gyelgha Chondha | 4332501034 | Ketua Tim & SOC Essentials | @chondhayam |
-| Abiyya Dhiyaul Faiq | 433250133 | Web Fundamental | @xerc-o |
+| Abiyya Dhiyaul Faiq | 4332501033 | Web Fundamental | @xerc-o |
 | Kendi | 4332501044 | Internetworking | @Kenn-Secure |
 | Shadiq Wily Widyadhana | 4332501047 | DevOps | @shadiq-security |
 | Nailah Ramadhani | 4332501060 | Network Defender Essentials | @naila30706-prog |
